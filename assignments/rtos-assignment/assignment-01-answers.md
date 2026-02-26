@@ -1,5 +1,7 @@
 # **RTOS Assignment - 01**
 
+## **[QUESTIONS](https://github.com/manakcodes/sem-6/blob/804c112cade0cdf77651dde0b3749c2c2c39be95/assignments/rtos-assignment/rtos-assignment-01-questions.jpg)**
+
 ```text
 ***** NOTE *****
 

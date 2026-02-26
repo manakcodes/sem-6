@@ -1,6 +1,6 @@
 # **PME Assignment - 02**
 
-## **[QUESTIONS](link-to-questions)**
+## **[QUESTIONS](https://github.com/manakcodes/sem-6/blob/804c112cade0cdf77651dde0b3749c2c2c39be95/assignments/pme-assignments/pme-assignment-02-questions.pdf)**
 
 ### NOTE:
 
