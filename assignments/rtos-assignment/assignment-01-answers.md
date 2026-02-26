@@ -6,7 +6,7 @@
 > Subject Code: HS-304
 
 > Assignment Date:
-[friday, 23 february, 2026]
+[monday, 23 february, 2026]
 
 > Assignment Deadline:
 [friday, 27 february, 2026]
